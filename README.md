@@ -5,11 +5,6 @@
 
 ![Matrix Effect](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJlcGlrNTc4ODd4MDhoaHA2bWNkNm43eXRkYjJ6dGY5Z2JiZXo2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif)
 
-
-
-<h1 align="center">Hi 👋, I'm mamitheprofessional</h1>
-<h3 align="center">A Computer Engineer from Turkey</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammet-polat-03906a316/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammet-polat-03906a316/" height="30" width="40" /></a>
